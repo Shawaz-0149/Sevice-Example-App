@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Services</string>
+    <string name="Text">Service Example</string>
+    <string name="play_music">Play Music</string>
+    <string name="stop_music">Stop Music</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+</resources>
